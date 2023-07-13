@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title:  # the website title (if blank, full name will be used instead)
 first_name: John
 middle_name: A.
 last_name: Biechele-Speziale
@@ -106,7 +106,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 
 contact_note: >
-If you have inquiries about any of my work, please email me.
+If you have any inquiries about my work or potential collaborations, please email me.
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
@@ -272,8 +272,8 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 
 scholar:
 
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Biechele-Speziale]
+  first_name: [John, A.]
 
   style: apa
   locale: en
@@ -360,7 +360,7 @@ enable_google_verification: false  # enables google site verification
 enable_bing_verification:   false  # enables bing site verification
 enable_masonry:             true   # enables automatic project cards arrangement
 enable_math:                true   # enables math typesetting (uses MathJax)
-enable_tooltips:            false  # enables automatic tooltip links generated
+enable_tooltips:            true  # enables automatic tooltip links generated
                                    # for each section titles on pages and posts
 enable_darkmode:            true   # enables switching between light/dark modes
 enable_navbar_social:       false  # enables displaying social links in the
